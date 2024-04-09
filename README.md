@@ -1,2 +1,2 @@
 # Spotify-Clone
-This is the clone of sptotify without adding responsive. 
+This is the clone of spotify without adding responsive. 
